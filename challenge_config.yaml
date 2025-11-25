@@ -32,6 +32,7 @@ leaderboard:
 
 challenge_phases:
   - id: 1
+    slug: zxc
     name: Dev Phase
     description: templates/challenge_phase_1_description.html
     leaderboard_public: False
