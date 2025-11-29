@@ -1,6 +1,6 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # https://evalai.readthedocs.io/en/latest/configuration.html
-title: "Image Classification Challenge"
+title: "Домашняя работа 1 - линейная регрессия"
 short_description: "Classify images into categories."
 description: "templates/description.html"
 evaluation_details: "templates/evaluation_details.html"
